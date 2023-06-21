@@ -23,7 +23,7 @@
 
 ###
 
-<img align="right" alt="coding" height=300 width=400 src="https://media.tenor.com/kv152M9hH6UAAAAM/working-monkey.gif">
+<img align="right" alt="coding" height=300 width=400 src="https://cms.codigee.com/wp-content/uploads/2023/04/coding.gif">
 <br>
 <h4 align="left">I'm  Arnab Mohanty.<br><br><br>- 🔭I’m currently working on NLP,Neural Networks and FLutter Web<br><br><br>- 📚I’m currently learning Flutter Web and CNN<br><br><br>- ⚡ I’m looking to collaborate on Interesting and Innovative Projects.</h4>
 
