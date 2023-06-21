@@ -1,14 +1,14 @@
-<h1 align="left">Hi👋, I'm ARNAB</h1>
+<h1 align="center">Hi👋, I'm ARNAB.</h1>
 
 ###
 
-<h3 align="left">A passionate Flutter & AI/ML developer from India.</h3>
+<h3 align="center">A passionate Flutter & AI/ML developer from India.</h3>
 
 ###
 
 <br clear="both">
 
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
@@ -23,13 +23,17 @@
 
 ###
 
-<h4 align="left">I'm from Bhanjanagar,Odisha.<br><br><br>- 🔭I’m currently working on NLP,Neural Networks and FLutter Web<br><br><br>- 📚I’m currently learning Flutter Web and CNN<br><br><br>- ⚡ I’m looking to collaborate on Interesting and Innovative Projects.</h4>
+<img align="right" alt="coding" height=300 width=400 src="https://media.tenor.com/kv152M9hH6UAAAAM/working-monkey.gif">
+<br>
+<h4 align="left">I'm  Arnab Mohanty.<br><br><br>- 🔭I’m currently working on NLP,Neural Networks and FLutter Web<br><br><br>- 📚I’m currently learning Flutter Web and CNN<br><br><br>- ⚡ I’m looking to collaborate on Interesting and Innovative Projects.</h4>
 
 ###
-
+<br><br><br>
 <h3 align="left">Skills :</h3>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo"  />
@@ -59,21 +63,28 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
   <img width="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-  <img width="60" />
+</div>
+
+###
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" height="40" alt="gradle logo"  />
   <img width="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
   <img width="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" height="40" alt="gradle logo"  />
+  <img width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
 ###
 
-<h3 align="left">Statistics :</h3>
+<br><br>
+<h2 align="left">Statistics :</h2>
 
 ###
 
