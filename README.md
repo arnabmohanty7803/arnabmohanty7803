@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">A passionate Flutter & AI/ML developer from India.</h3>
+<h3 align="center">A passionate AI/ML & Flutter developer from India.</h3>
 
 ###
 
